@@ -1,4 +1,4 @@
-# Asopos AIVD github
+# Github organisation profile
 
-## Welkom op de AIVD github
-- stuur ons een mailtje als je iets nodig hebt 😃
+This is a repo special for the organisation profile;
+Edit the README under /profile to change the public text
