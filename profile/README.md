@@ -1,4 +1,4 @@
-# Asopos AIVD Github
+# Asopos IT-Commissie Github
 
 ## Welkom op onze github
 - Stuur ons een [mailtje](mailto:aivd@asopos.nl) als je iets nodig hebt 😃
